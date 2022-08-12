@@ -7,7 +7,7 @@ Minimalistic website built on Python Flask framework. It uses SQLite DBMS and al
 
 It's functionality might be increased. 
 
-Site is available by this link: https://ravil-flask-website.herokuapp.com/. It was deployed on Heroku using gunicorn
+Site is available by this link: https://ravil-flask-website.herokuapp.com/. It was deployed on Heroku using gunicorn.
 
 Web page design was taken from Bootstrap: https://getbootstrap.com/docs/5.2/examples/pricing/
 
