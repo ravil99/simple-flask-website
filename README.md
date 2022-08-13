@@ -11,7 +11,7 @@ Site is available by this link: https://ravil-flask-website.herokuapp.com/. It w
 
 Web page design was taken from Bootstrap: https://getbootstrap.com/docs/5.2/examples/pricing/
 
-## How to run
+## How to run:
 
 1) ```git clone https://github.com/ravil99/simple-flask-website.git```
 2) ```cd simple-flask-website```
