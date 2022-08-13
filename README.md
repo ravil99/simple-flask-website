@@ -1,5 +1,5 @@
 # Simple Flask Website
-## About
+## About:
 
 Minimalistic website built on Python Flask framework. It uses SQLite DBMS and allows to:
 * Read, change and delete existing articles
