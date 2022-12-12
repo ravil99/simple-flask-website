@@ -1,4 +1,6 @@
 venv
 __pycache__
 Procfile
+.vscode
+.pytest_cache
 

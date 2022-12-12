@@ -1,7 +1,8 @@
 from flask import render_template, url_for, request, redirect
-from src.main_module import app, Article, db
+from src import app, db
+from src.models import Article
 
-# /home
+
 @app.route('/')
 @app.route('/home')
 def index():
@@ -11,6 +12,9 @@ def index():
 # /about
 @app.route('/about')
 def about():
+    # global i
+    # i+= 1
+    # print(i)
     return render_template('about.html')
 
 
