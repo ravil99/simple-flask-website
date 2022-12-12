@@ -12,9 +12,6 @@ def index():
 # /about
 @app.route('/about')
 def about():
-    # global i
-    # i+= 1
-    # print(i)
     return render_template('about.html')
 
 
